@@ -1,0 +1,7 @@
+pyTelegramBotAPI
+pyrogram
+requests
+datetime
+flask
+telebot
+blinker==1.4
